@@ -1,0 +1,4 @@
+# github.com/adamavixio/demo v0.0.0-20230319182751-d0fb9ecfde63
+## explicit; go 1.20
+github.com/adamavixio/demo/pkg/pkg1
+github.com/adamavixio/demo/pkg/pkg2
